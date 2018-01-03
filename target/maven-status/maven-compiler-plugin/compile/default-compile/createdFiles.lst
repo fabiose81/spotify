@@ -1,0 +1,6 @@
+com/fabiose/spotify/feign/SpotifyFeignClient.class
+com/fabiose/spotify/service/SpotifyService.class
+com/fabiose/spotify/domain/Artist.class
+com/fabiose/spotify/Main.class
+com/fabiose/spotify/controller/HomeController.class
+com/fabiose/spotify/controller/SpotifyController.class

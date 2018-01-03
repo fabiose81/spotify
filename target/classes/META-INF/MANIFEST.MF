@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: fabioestrela
+Build-Jdk: 9.0.1
+Implementation-Title: spotify
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.fabiose
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spotify/
+Created-By: Maven Integration for Eclipse
+
